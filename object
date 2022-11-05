@@ -10,5 +10,6 @@ print(dog1)
 #we use the str method
 #that will be
 #def __str__(self):
+#return f"I am {self.name} and am {self.age} years"
 
 
