@@ -6,4 +6,7 @@ class Dog:
 dog1=Dog("Rufus",3)
 print(dog1)
 #in this case the storage location of the object in the local drive will be displayed
+#in order to display the object attributes 
+
+
 
