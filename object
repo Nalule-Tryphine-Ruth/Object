@@ -9,6 +9,6 @@ print(dog1)
 #in order to display the object attributes 
 #we use the str method
 #that will be
-
+#def __str__(self):
 
 
