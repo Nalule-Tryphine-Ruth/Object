@@ -8,6 +8,7 @@ print(dog1)
 #in this case the storage location of the object in the local drive will be displayed
 #in order to display the object attributes 
 #we use the str method
+#that will be
 
 
 
