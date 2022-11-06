@@ -11,6 +11,9 @@ print(dog1)
 #that will be
 #def __str__(self):
 #return f"I am {self.name} and am {self.age} years"
+#to add object behaviours
+#we use 
+#def walk(self):
 
 class Dog:
     def __init__(self,name,age):
