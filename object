@@ -22,6 +22,9 @@ class Dog:
         
     def walk(self):
                return "I am walking"
+    
+    def bark(self):
+               return "woof woof"
          
                
     def __str__(self):
