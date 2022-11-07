@@ -34,8 +34,9 @@ class Dog:
 
 
     
-    def walk(self):
-               return "I am walking"
+    def bite(self):
+               return "I am biting"
+    
 
     def __str__(self):
      return f"I am {self.name} and am {self.age} years"
