@@ -32,6 +32,7 @@ class Dog:
     def play(self):
                return "I am playing"
 
+
     
     def walk(self):
                return "I am walking"
