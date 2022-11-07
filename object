@@ -25,8 +25,13 @@ class Dog:
     
     def bark(self):
                return "woof woof"
-         
+      
+    def eat(self):
+               return "I am eating"
                
+    def play(self):
+               return "I am playing"
+
     def __str__(self):
      return f"I am {self.name} and am {self.age} years"
 
