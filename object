@@ -36,6 +36,9 @@ class Dog:
     
     def bite(self):
                return "I am biting"
+               
+     def chase(self):
+               return "I am chasing"
     
 
     def __str__(self):
